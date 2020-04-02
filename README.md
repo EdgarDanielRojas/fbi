@@ -13,13 +13,14 @@
 ```
 FBI is an accurate facebook account information gathering, all sensitive information can be easily gathered even though the target converts all of its privacy to (only me), Sensitive information about residence, date of birth, occupation, phone number and email address.
 
+This repo will be deleted once xHak9x accepts the pull request into the official repo
 
 
 # [ Installation ]
 ```
 $ apt update && apt upgrade
 $ apt install git python3
-$ git clone https://github.com/xHak9x/fbi.git
+$ git clone https://github.com/EdgarDanielRojas/fbi.git
 $ cd fbi
 ```
 
